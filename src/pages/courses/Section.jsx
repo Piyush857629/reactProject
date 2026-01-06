@@ -1,5 +1,3 @@
-import React from 'react'
-
 function Section() {
   return (
     <>
@@ -8,8 +6,7 @@ function Section() {
           <div className="row">
             <div
               className="col-lg-4 col-md-6 d-flex align-items-stretch"
-         
-            >
+                     >
               <div className="course-item">
                 <img
                   src="img/course-1.jpg"

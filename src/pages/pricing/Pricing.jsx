@@ -1,6 +1,5 @@
 import Section from "./Section"
 import Title from "./Title"
-
  function Pricing() {
   return (
     <>

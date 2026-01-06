@@ -107,7 +107,7 @@ function Footer() {
         </div>
         <div className="container copyright text-center mt-4">
           <p>
-            © <span>Copyright</span>{" "}
+            <span>Terms and services</span>{" "}
             <strong className="px-1 sitename">Mentor</strong>{" "}
             <span>All Rights Reserved</span>
           </p>
